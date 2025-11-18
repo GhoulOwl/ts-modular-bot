@@ -1,4 +1,4 @@
-host: '127.0.0.1'
+host: 'ds.liumouy.com'
 query_port: 10011
 server_port: 9987
 nickname: 'MusicBot'

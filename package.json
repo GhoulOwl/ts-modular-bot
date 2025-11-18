@@ -9,7 +9,7 @@
     "axios": "^1.6.8",
     "dotenv": "^16.3.1",
     "js-yaml": "^4.1.0",
-    "ts3-nodejs-library": "^5.0.0"
+    "ts3-nodejs-library": "^3.5.1"
   },
   "devDependencies": {
     "@types/node": "^20.5.0",
