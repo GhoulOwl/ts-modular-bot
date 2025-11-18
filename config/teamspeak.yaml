@@ -1,0 +1,6 @@
+host: '127.0.0.1'
+query_port: 10011
+server_port: 9987
+nickname: 'MusicBot'
+username: 'serveradmin'
+password: 'password'
