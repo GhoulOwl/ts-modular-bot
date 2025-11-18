@@ -1,0 +1,8 @@
+ts3a:
+  baseUrl: "http://192.168.31.29:58913"
+  timeout: 8000
+ncm:
+  baseUrl: "http://192.168.31.29:43330"
+  timeout: 8000
+queue:
+  announce: true
